@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Config>
+  <ParkingCount>10</ParkingCount>
+  <ParkingSize>20</ParkingSize>
+  <Server>
+    <Name>resto</Name>
+    <Url>http://1</Url>
+  </Server>
+  <LocalPort>8090</LocalPort>
+</Config>

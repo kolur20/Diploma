@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Devices>
+  <IpCamera>192.168.0.200:8001</IpCamera>
+  <IpStancesIn>
+  </IpStancesIn>
+  <IpStancesOut>
+    <Stance>192.168.0.30:80</Stance>
+    <Stance>192.168.0.30:80</Stance>
+  </IpStancesOut>
+  <Servers>
+    <Server>
+      <Name>name</Name>
+      <Url>http://name11</Url>
+    </Server>
+    <Server>
+      <Name>resto</Name>
+      <Url>http://1</Url>
+    </Server>
+    <Server>
+      <Name>resto_2</Name>
+      <Url>http://1222222</Url>
+    </Server>
+  </Servers>
+</Devices>

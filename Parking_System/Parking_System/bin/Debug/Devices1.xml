@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Devices>
+    <IpCamera>192.168.0.128:9000</IpCamera>
+    <IpRackIn>192.168.0.30:80</IpRackIn>
+    <IpRackOut>192.168.0.31:80</IpRackOut>
+ <Servers>
+  <Server>
+	<Name>Resto</Name>
+	<Url>http://localhost:8080/resto</Url>
+  </Server>
+  <Server>
+	<Name>Resto1</Name>
+	<Url>http://localhost:8080/resto</Url>
+  </Server>
+ </Servers>
+</Devices>
